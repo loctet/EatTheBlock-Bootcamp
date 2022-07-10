@@ -1,0 +1,28 @@
+{
+  "name": "eattheblock-bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loctet/EatTheBlock-Bootcamp.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loctet/EatTheBlock-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/loctet/EatTheBlock-Bootcamp#readme",
+  "devDependencies": {
+    "@types/mocha": "^9.1.1",
+    "hardhat": "^2.10.0",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.1"
+  }
+}
